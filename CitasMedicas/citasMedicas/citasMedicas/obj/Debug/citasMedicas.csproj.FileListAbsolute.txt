@@ -1,0 +1,142 @@
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\citasMedicas.exe.config
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\citasMedicas.exe
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\citasMedicas.pdb
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.csproj.AssemblyReference.cache
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.Properties.Resources.resources
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.csproj.GenerateResource.cache
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.exe
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.pdb
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.frmPrincipal.resources
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.PRESENTACION.frmPacientes.resources
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\EnvDTE.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\stdole.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMed.3E8930CE.Up2Date
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.REPORTES.frminformePacientes.resources
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.REPORTES.frmFechas.resources
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.REPORTES.frmExamenesPacientes.resources
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\citasMedicas.exe.manifest
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\citasMedicas.application
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.exe.manifest
+C:\Users\Mariela\Desktop\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.application
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\citasMedicas.exe.config
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\citasMedicas.exe.manifest
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\citasMedicas.application
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\citasMedicas.exe
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\citasMedicas.pdb
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\EnvDTE.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\stdole.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.csproj.AssemblyReference.cache
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.frmPrincipal.resources
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.PRESENTACION.frmPacientes.resources
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.Properties.Resources.resources
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.REPORTES.frmExamenesPacientes.resources
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.REPORTES.frmFechas.resources
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.REPORTES.frminformePacientes.resources
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.csproj.GenerateResource.cache
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.exe.manifest
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.application
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMed.3E8930CE.Up2Date
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.exe
+C:\Users\Mariela\Desktop\PROYECTO FINAL\CitasMedicas\citasMedicas\citasMedicas\obj\Debug\citasMedicas.pdb
